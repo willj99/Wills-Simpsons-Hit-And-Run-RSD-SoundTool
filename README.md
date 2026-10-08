@@ -6,7 +6,7 @@ A custom audio conversion and management tool built specifically for The Simpson
 
 - Proprietary RADP Support: Fully supports decoding the proprietary RADP audio format used in the PC version of The Simpsons: Hit & Run, allowing seamless conversion into standard WAV and OGG formats.
 - PCM & PCMB Encoding Support: Extends compatibility to parse and convert PCMB and PCM encoded RSD files.
-- Bulk Conversion Capabilities: Unlike legacy tools (such as Lucas' RSD Convertor), this tool supports batch processing, letting you convert multiple files simultaneously to save time.
+- Bulk Conversion Capabilities: Unlike tools (such as Lucas' RSD Convertor), this tool supports batch processing, letting you convert multiple files simultaneously to save time.
 - Direct OGG Export: Built-in support for converting audio directly into .ogg format.
 - Live Audio Playback: Inspect RSD header names directly within the user interface and play audio files live before performing any conversions.
 - Smart Dialogue Casing Fixer: Right-click on any sound file to automatically detect conversational naming conventions and fix filename casing—a massive time-saver for modders working on custom dialogue implementations.
