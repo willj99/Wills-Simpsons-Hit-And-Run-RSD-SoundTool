@@ -1,0 +1,7 @@
+L:\Visual Studio Source\RSDSwissKnife\bin\Release\net10.0-windows\publish\RSDSwissKnife.exe
+L:\Visual Studio Source\RSDSwissKnife\bin\Release\net10.0-windows\publish\RSDSwissKnife.dll
+L:\Visual Studio Source\RSDSwissKnife\bin\Release\net10.0-windows\publish\RSDSwissKnife.deps.json
+L:\Visual Studio Source\RSDSwissKnife\bin\Release\net10.0-windows\publish\RSDSwissKnife.runtimeconfig.json
+L:\Visual Studio Source\RSDSwissKnife\bin\Release\net10.0-windows\publish\RSDSwissKnife.pdb
+L:\Visual Studio Source\RSDSwissKnife\bin\Release\net10.0-windows\publish\NVorbis.dll
+L:\Visual Studio Source\RSDSwissKnife\bin\Release\net10.0-windows\publish\OggVorbisEncoder.dll

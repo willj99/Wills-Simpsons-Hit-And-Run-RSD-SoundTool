@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\Visual Studio Source\\RSDSwissKnife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\namecasingfixer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:namecasingfixer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\oggconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:oggconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\rsdswissknife.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:rsdswissknife.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\rsdswissknife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:rsdswissknife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\rsdaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:rsdaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|c:\\users\\will\\downloads\\rsdtool1.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\radicaladpcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:radicaladpcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|l:\\visual studio source\\rsdswissknife\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56357D8-CA2A-B996-71F0-B464989FEC1E}|RSDSwissKnife.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RSDSwissKnife",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\RSDSwissKnife.csproj",
+              "RelativeDocumentMoniker": "RSDSwissKnife.csproj",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\RSDSwissKnife.csproj",
+              "RelativeToolTip": "RSDSwissKnife.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-28T15:32:32.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHkCAAAAAAAAAAAiwJ8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T21:09:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T21:50:03.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OggConversion.cs",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\OggConversion.cs",
+              "RelativeDocumentMoniker": "OggConversion.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\OggConversion.cs",
+              "RelativeToolTip": "OggConversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T14:36:27.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RSDTool1.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Will\\Downloads\\RSDTool1.ico",
+              "ToolTip": "C:\\Users\\Will\\Downloads\\RSDTool1.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-08-29T14:19:01.044Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RSDSwissKnife.csproj",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\RSDSwissKnife.csproj",
+              "RelativeDocumentMoniker": "RSDSwissKnife.csproj",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\RSDSwissKnife.csproj",
+              "RelativeToolTip": "RSDSwissKnife.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-28T14:00:32.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameCasingFixer.cs",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\NameCasingFixer.cs",
+              "RelativeDocumentMoniker": "NameCasingFixer.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\NameCasingFixer.cs",
+              "RelativeToolTip": "NameCasingFixer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwHEAAABAAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:50:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RSDAudioPlayer.cs",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\RSDAudioPlayer.cs",
+              "RelativeDocumentMoniker": "RSDAudioPlayer.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\RSDAudioPlayer.cs",
+              "RelativeToolTip": "RSDAudioPlayer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwJQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T14:00:56.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T22:29:24.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RadicalADPCM.cs",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\RadicalADPCM.cs",
+              "RelativeDocumentMoniker": "RadicalADPCM.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\RadicalADPCM.cs",
+              "RelativeToolTip": "RadicalADPCM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T22:18:52.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "L:\\Visual Studio Source\\RSDSwissKnife\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "L:\\Visual Studio Source\\RSDSwissKnife\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T21:09:17.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

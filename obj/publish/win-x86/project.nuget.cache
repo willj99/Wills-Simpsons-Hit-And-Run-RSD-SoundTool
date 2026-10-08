@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0HXZO/083O0=",
+  "success": true,
+  "projectFilePath": "L:\\Visual Studio Source\\RSDSwissKnife\\RSDSwissKnife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Will\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.7\\microsoft.net.illink.tasks.10.0.7.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\nvorbis\\0.10.5\\nvorbis.0.10.5.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\oggvorbisencoder\\1.2.2\\oggvorbisencoder.1.2.2.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\10.0.7\\microsoft.netcore.app.runtime.win-x86.10.0.7.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\10.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.10.0.7.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\10.0.7\\microsoft.aspnetcore.app.runtime.win-x86.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
